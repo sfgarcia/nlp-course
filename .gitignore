@@ -1,0 +1,5 @@
+*.txt
+*.tsv
+*.csv
+*.h5
+*.pyc
