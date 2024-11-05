@@ -1,4 +1,6 @@
+# Allow only the requirement.txt file to be pushed to the repository
 *.txt
+!requirements.txt
 *.tsv
 *.csv
 *.h5
